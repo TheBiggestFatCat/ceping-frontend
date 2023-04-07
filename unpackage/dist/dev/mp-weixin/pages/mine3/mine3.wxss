@@ -1,0 +1,84 @@
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.top {
+  display: flex;
+  background-color: #fff;
+  padding: 20rpx;
+  position: relative;
+  border-radius: 10px;
+}
+.line2 {
+  margin-top: 40rpx;
+  background-color: #fff;
+  padding: 40rpx;
+  position: relative;
+  border-radius: 10px;
+}
+.avatar {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+}
+.right {
+  padding: 20rpx;
+}
+#name {
+  font-size: 18px;
+  font-weight: 600;
+}
+.role {
+  color: #595959;
+}
+.xiugai {
+  font-size: 14px;
+  color: #949494;
+  font-weight: 500;
+  position: absolute;
+  right: 40rpx;
+}
+.applyempty {
+  padding: 20rpx 0 0 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+.apply-row {
+  display: flex;
+  flex-flow: row nowrap;
+}
+.apply-item {
+  padding-bottom: 10rpx;
+  width: 33%;
+  margin: 0 auto;
+  text-align: center;
+}
+.apply-btn {
+  background-color: #2979ff;
+  color: #fff;
+}
+.grayline {
+  margin: 20rpx 0 20rpx 0;
+  border-bottom: 1px solid #0018b6;
+}
+.ceping {
+  display: flex;
+  margin-bottom: 40rpx;
+}
+.cepingPicture {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 10px;
+}
+.ceping-right {
+  width: 400rpx;
+  padding: 10rpx 20rpx 10rpx 20rpx;
+}
+.ceping-date {
+  color: #595959;
+}

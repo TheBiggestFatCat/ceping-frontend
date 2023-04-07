@@ -1,0 +1,108 @@
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.empty {
+  margin: 200rpx 0 200rpx 0;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  color: #b5b5b5;
+}
+.empty-pub-btn {
+  background-color: #2979ff;
+  color: #fff;
+  margin-top: 140rpx;
+  width: 600rpx;
+  font-size: 16px;
+}
+.title {
+  background-color: #fff;
+  margin-bottom: 60rpx;
+  padding: 20rpx;
+  border-radius: 20rpx;
+}
+.good {
+  height: 200rpx;
+  margin-bottom: 60rpx;
+  display: flex;
+  position: relative;
+  background-color: #fff;
+  padding: 30rpx;
+  border-radius: 20rpx;
+}
+.good-picture {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 10px;
+}
+.good-right {
+  padding: 6rpx 0 0 40rpx;
+}
+.goodname {
+  font-weight: 600;
+  font-size: 18px;
+  color: #050d81;
+}
+.goodsubtitle {
+  font-size: 14px;
+}
+.detaiibtn {
+  position: absolute;
+  right: 160rpx;
+  bottom: 20rpx;
+  font-size: 14px;
+  background-color: #2979ff;
+  color: #fff;
+}
+.delbtn {
+  position: absolute;
+  right: 20rpx;
+  bottom: 20rpx;
+  font-size: 14px;
+  color: #e43d33;
+}
+/* 水平间距 */
+/* 水平间距 */
+.swiper {
+  height: 300rpx;
+}
+.swiper-item {
+  display: block;
+  height: 300rpx;
+  text-align: center;
+}
+.tuijian {
+  margin-top: 40rpx;
+  padding: 20rpx;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.hot-title {
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+}
+.randgood {
+  position: relative;
+  display: flex;
+  margin: 30rpx 0 60rpx 0;
+}
+.randgoodimg {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 10px;
+}
+.goodright {
+  padding: 10rpx 0 0 20rpx;
+}
+.new {
+  margin-top: 40rpx;
+  padding: 20rpx;
+  background-color: #fff;
+  border-radius: 10px;
+}

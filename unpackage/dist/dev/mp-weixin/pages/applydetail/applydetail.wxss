@@ -1,0 +1,62 @@
+
+page {
+		font-size: 14px;
+		padding: 40rpx;
+		box-sizing: border-box;
+}
+.tabbar {
+		display: flex;
+		justify-content: center;
+		margin-top: 40rpx;
+		background-color: #fff;
+		padding: 42rpx;
+		position: relative;
+		border-radius: 10px;
+}
+.line2 {
+		margin-top: 40rpx;
+		background-color: #fff;
+		padding: 40rpx;
+		position: relative;
+		border-radius: 10px;
+}
+.tabbar-box {
+		width: 33.3%;
+		text-align: center;
+}
+.grayline {
+		margin: 20rpx 0 20rpx 0;
+		border-bottom: 1px solid #0018b6;
+}
+.linetype1 {
+		position: relative;
+		bottom: 10px;
+		width: 20px;
+		left: calc(42rpx + (100% - 84rpx) / 6 - 10px);
+		border-bottom: 2px solid #0018b6;
+		transition: all .6s;
+}
+.linetype2 {
+		position: relative;
+		bottom: 10px;
+		width: 20px;
+		left: calc(50% - 10px);
+		border-bottom: 2px solid #0018b6;
+		transition: all .6s;
+}
+.linetype3 {
+		position: relative;
+		bottom: 10px;
+		width: 20px;
+		left: calc(42rpx + (100% - 84rpx) * 5 / 6 - 10px);
+		border-bottom: 2px solid #0018b6;
+		transition: all .4s;
+}
+.blue {
+		color: #0018b6;
+}
+.apply {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 10rpx;
+}

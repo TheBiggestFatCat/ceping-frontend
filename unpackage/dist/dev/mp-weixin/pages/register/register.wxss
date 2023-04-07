@@ -1,0 +1,19 @@
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #fff;
+}
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.title {
+  font-size: 80rpx;
+  margin: 100rpx 0 100rpx 30rpx;
+}
+button {
+  margin-top: 40rpx;
+  background-color: #2979ff;
+  color: #fff;
+}
